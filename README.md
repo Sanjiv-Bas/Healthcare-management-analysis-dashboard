@@ -1,7 +1,5 @@
 # Healthcare-management-analysis-dashboard - Excel
 
-![Uploading image.png…]()
-
 Developed an interactive Healthcare Management Analysis Dashboard to monitor and analyze hospital operations, patient statistics, treatment trends, resource utilization, and financial performance. The project focuses on transforming raw healthcare data into meaningful insights using data analytics and visualization techniques.
 
 -  Analyzed a healthcare dataset of 55,500 patient records with 21 attributes, covering demographics, medical conditions, hospital details, and billing information using Excel Pivot Tables. 
